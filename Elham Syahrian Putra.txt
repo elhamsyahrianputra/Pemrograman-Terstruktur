@@ -1,0 +1,4 @@
+Ini adalah tempat file *.irobo, tugas Praktikum Pemrograman Terstruktur Chapter-2
+
+nama : Elham Syahrian Putra
+Kelas : A(Ganjil)
