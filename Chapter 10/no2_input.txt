@@ -1,0 +1,5 @@
+K3518001|Amir|Solo
+K3518002|Budi|Semarang
+K3518003|Cici|Jakarta
+K3520065|Dono|Medan
+K3520023|Elham|Kutai Kartanegara
